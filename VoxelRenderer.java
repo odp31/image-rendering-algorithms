@@ -1,3 +1,7 @@
+// represents 3D scenes as a grid of voxels (3D pixels)
+// can be useful for rendering volumetric data like medical scans or smoke simulations 
+
+
 import java.awt.image.BufferedImage;
 import java.awt.Color;
 
